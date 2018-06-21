@@ -5,9 +5,6 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by robholm on 29.04.17.
- */
 public class GameMenu extends JPanel{
 
     private static final int HEIGHT = 300;

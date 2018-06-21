@@ -3,9 +3,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by robholm on 29.04.17.
- */
 public class GameFrame extends JFrame{
 
     private int level;

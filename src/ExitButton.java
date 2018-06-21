@@ -2,9 +2,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by robholm on 30.04.17.
- */
 public class ExitButton extends JButton implements ActionListener{
 
     public ExitButton() {

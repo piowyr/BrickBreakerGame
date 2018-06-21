@@ -2,9 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**
- * Created by robholm on 29.04.17.
- */
 public class Gameplay extends JPanel implements KeyListener, MouseListener, MouseMotionListener, ActionListener {
 
     private final GameFrame gameFrame;

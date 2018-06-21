@@ -3,9 +3,6 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by robholm on 03.05.17.
- */
 public class GameGraphics {
 
     private BufferedImage imageBackground;

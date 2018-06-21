@@ -1,9 +1,6 @@
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
-/**
- * Created by robholm on 04.05.17.
- */
 public class GpGraphics {
 
     private GameGraphics gameGraphics;
