@@ -1,0 +1,7 @@
+# Ignore production directories
+out/
+*.idea
+
+*.xml
+*.iml
+*.properties
